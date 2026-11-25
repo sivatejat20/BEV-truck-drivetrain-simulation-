@@ -1,0 +1,10 @@
+cycle,topology,distance_km,kWh_per_km,motor_loss_kWh,inverter_loss_kWh,transmission_loss_kWh,friction_brake_kWh,battery_loss_kWh,recuperation_share_pct
+Urban delivery,"Central drive (1 motor, 2-speed)",24.3,1.078,2.68,0.76,2.87,0.0,0.57,100.0
+Urban delivery,"E-axle (2 motors, 1-speed)",24.3,1.021,2.32,0.78,1.83,0.0,0.56,100.0
+Urban delivery,"E-axle (2 motors, 1-speed + disconnect)",24.3,1.004,1.93,0.77,1.82,0.0,0.55,100.0
+Regional delivery,"Central drive (1 motor, 2-speed)",59.0,1.257,3.93,1.47,6.0,0.58,1.92,97.6
+Regional delivery,"E-axle (2 motors, 1-speed)",59.0,1.235,4.75,1.49,3.82,0.64,1.87,97.4
+Regional delivery,"E-axle (2 motors, 1-speed + disconnect)",59.0,1.209,3.3,1.47,3.81,0.64,1.85,97.4
+Long haul,"Central drive (1 motor, 2-speed)",122.0,1.385,6.66,2.78,11.39,0.04,3.89,99.9
+Long haul,"E-axle (2 motors, 1-speed)",122.0,1.376,9.73,2.81,7.3,0.05,3.8,99.8
+Long haul,"E-axle (2 motors, 1-speed + disconnect)",122.0,1.348,6.44,2.78,7.22,0.05,3.75,99.8

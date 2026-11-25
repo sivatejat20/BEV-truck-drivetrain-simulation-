@@ -1,0 +1,4 @@
+cycle,central_kWh_per_km,eaxle_kWh_per_km,eaxle_equal_gear_eff_kWh_per_km
+Urban delivery,1.078,1.021,1.065
+Regional delivery,1.257,1.235,1.273
+Long haul,1.385,1.376,1.412
